@@ -1,0 +1,1 @@
+Repository to host Minecraft server datapacks.
